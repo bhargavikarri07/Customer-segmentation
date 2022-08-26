@@ -32,4 +32,10 @@ K-means clustering
 
 PCA with K-means
 
-Conclusion
+Conclusion: 
+
+1. We segmented our customers into 4 groups. We are ready to start to choose our groups based on our aims and marketing them.
+
+2. Segmentation helps marketers to be more efficient in terms of time, money and other resources.
+
+3. They gain a better understanding of customer's needs and wants and therefore can tailor campaigns to customer segments most likely to purchase products.
