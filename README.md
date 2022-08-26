@@ -22,14 +22,14 @@ Occupation: Category of occupation of the customer.
 
 Settlement size: The size of the city that the customer lives in.
 
-# Importing libraries 
+Importing libraries 
 
-# Explore dataset
+Explore dataset
 
-# Data preprocessing
+Data preprocessing
 
-# K-means clustering
+K-means clustering
 
-# PCA with K-means
+PCA with K-means
 
-# Conclusion
+Conclusion
