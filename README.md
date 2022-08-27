@@ -32,7 +32,7 @@ K-means clustering
 
 PCA with K-means
 
-Conclusion: 
+# Conclusion: 
 
 1. We segmented our customers into 4 groups. We are ready to start to choose our groups based on our aims and marketing them.
 
